@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Valsecchi</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">Enthusiastic Javascript developer and Digital nomad. I love travelling and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebous&label=Profile%20views&color=0e75b6&style=flat" alt="thebous" /> </p>
 
