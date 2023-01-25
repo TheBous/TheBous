@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_bous1993" target="blank"><img src="https://img.shields.io/twitter/follow/the_bous1993?logo=twitter&style=for-the-badge" alt="the_bous1993" /></a> </p>
 
-- 🔭 I’m currently working on [hotelscan](https://www.hotelscan.com)
+- 🔭 I’m currently working on [noku.io](https://www.noku.io/)
 
 - 🌱 I’m currently learning **JAM stack**
 
