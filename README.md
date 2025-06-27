@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [noku.io](https://www.noku.io/)
 
-- 🌱 I’m currently learning **ICP network**
+- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to collaborate on **Anoesis**
 
